@@ -2773,6 +2773,7 @@ pre code {
 .textwidget .commentsArea .comment-item img {
     margin: 2px;
     display: block;
+    width: 40px;
 }
 
 .font-size-14 {
